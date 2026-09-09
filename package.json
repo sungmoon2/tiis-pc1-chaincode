@@ -1,0 +1,13 @@
+{
+  "name": "tiis-pc1-chaincode",
+  "version": "1.0.0-clean.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Sungmoon Park <qkrtjdans4145@gmail.com>",
+  "engines": {
+    "node": "18.20.8"
+  },
+  "dependencies": {
+    "fabric-shim": "2.5.8"
+  }
+}

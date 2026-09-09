@@ -1,0 +1,3031 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "bom-ref": "445977543e62c08dbeb285a177b05d484485bcd4fda80ad5014d29c454f47476",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@js-sdsl/ordered-map/-/ordered-map-4.4.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "445977543e62c08dbeb285a177b05d484485bcd4fda80ad5014d29c454f47476"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@js-sdsl/ordered-map",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "14"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40js-sdsl/ordered-map@4.4.2",
+      "type": "library",
+      "version": "4.4.2"
+    },
+    {
+      "bom-ref": "0041878b8209f2fa4bcc5e0666355ebc96ff97f360c3054ffe83dbb78ee1c119",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0041878b8209f2fa4bcc5e0666355ebc96ff97f360c3054ffe83dbb78ee1c119"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/aspromise",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/aspromise@1.1.2",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "d67e6ee6e1445512478cdfc34c12144f579bdd9f06529eef3ef8d88f84031a6a",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/base64/-/base64-1.1.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d67e6ee6e1445512478cdfc34c12144f579bdd9f06529eef3ef8d88f84031a6a"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/base64",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/base64@1.1.2",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "20bafed1221bcba23a2450a841998edaef9a56bc2101d6e38c2117dd58a13a01",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/codegen/-/codegen-2.0.5.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "20bafed1221bcba23a2450a841998edaef9a56bc2101d6e38c2117dd58a13a01"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/codegen",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/codegen@2.0.5",
+      "type": "library",
+      "version": "2.0.5"
+    },
+    {
+      "bom-ref": "5536b98cb7062e771c1dadd1828e352ebe40034f1480836f21c776ec372a797c",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/eventemitter/-/eventemitter-1.1.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5536b98cb7062e771c1dadd1828e352ebe40034f1480836f21c776ec372a797c"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/eventemitter",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/eventemitter@1.1.1",
+      "type": "library",
+      "version": "1.1.1"
+    },
+    {
+      "bom-ref": "54481d9c62debce1c38b0239f2358eeb3b73f7bb1ba3105bd6123fd81b8b7268",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.1.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "54481d9c62debce1c38b0239f2358eeb3b73f7bb1ba3105bd6123fd81b8b7268"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/fetch",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "9"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/fetch@1.1.1",
+      "type": "library",
+      "version": "1.1.1"
+    },
+    {
+      "bom-ref": "20b3d612d53281b754602d52a8e6a6e09032169d5399e515f6f5e8b7d3de712d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/float/-/float-1.0.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "20b3d612d53281b754602d52a8e6a6e09032169d5399e515f6f5e8b7d3de712d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/float",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "8"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/float@1.0.2",
+      "type": "library",
+      "version": "1.0.2"
+    },
+    {
+      "bom-ref": "cc364ee910173c36d5734535a2bb53b8e7e86d2d219f27218158ab3f3dca328c",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cc364ee910173c36d5734535a2bb53b8e7e86d2d219f27218158ab3f3dca328c"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/path",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/path@1.1.2",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "f721dbd27282d2c7d1c2bf1ae9f7a03cc3ef9cf882fe469a32c14d1dae732703",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/pool/-/pool-1.1.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f721dbd27282d2c7d1c2bf1ae9f7a03cc3ef9cf882fe469a32c14d1dae732703"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/pool",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/pool@1.1.0",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "512bce48e5bb53d4351a415be21c6430e33103ecca831439e7e6cfb7aa3fca7d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@protobufjs/utf8/-/utf8-1.1.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "512bce48e5bb53d4351a415be21c6430e33103ecca831439e7e6cfb7aa3fca7d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "@protobufjs/utf8",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "9"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40protobufjs/utf8@1.1.2",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "0e0eadcdaada805db5d85b53ad5cdca0760b996ee199ec9658e7b34aa6c8e0d9",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0e0eadcdaada805db5d85b53ad5cdca0760b996ee199ec9658e7b34aa6c8e0d9"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "ansi-regex",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/ansi-regex@5.0.1",
+      "type": "library",
+      "version": "5.0.1"
+    },
+    {
+      "bom-ref": "2c539a46d85ab6033183997434d2d9a5ca2ceefc12b4db9022f564784cd7987f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2c539a46d85ab6033183997434d2d9a5ca2ceefc12b4db9022f564784cd7987f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "ansi-styles",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/ansi-styles@4.3.0",
+      "type": "library",
+      "version": "4.3.0"
+    },
+    {
+      "bom-ref": "defad1e25e8a349ea9cdd1066abf5e1e762f7f909de72bdca67bb35f77468c8d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/cliui/-/cliui-8.0.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "defad1e25e8a349ea9cdd1066abf5e1e762f7f909de72bdca67bb35f77468c8d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "ISC"
+        }
+      ],
+      "name": "cliui",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "9"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/cliui@8.0.1",
+      "type": "library",
+      "version": "8.0.1"
+    },
+    {
+      "bom-ref": "920fa43538c019a085dbbf04cb6f72cc337624e5f5217519f0e7b2ef784e7ce1",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "920fa43538c019a085dbbf04cb6f72cc337624e5f5217519f0e7b2ef784e7ce1"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "color-convert",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/color-convert@2.0.1",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "bom-ref": "507b7c4461e8eb941355af9a59e9a7e02cd0e7c6176b48d1809766344f3f1708",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "507b7c4461e8eb941355af9a59e9a7e02cd0e7c6176b48d1809766344f3f1708"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "color-name",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/color-name@1.1.4",
+      "type": "library",
+      "version": "1.1.4"
+    },
+    {
+      "bom-ref": "b5ccd9fbfb08098eefbeb6b6b4b40db6db3acf9243e327e039925aa8661cb107",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b5ccd9fbfb08098eefbeb6b6b4b40db6db3acf9243e327e039925aa8661cb107"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "emoji-regex",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "8"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/emoji-regex@8.0.0",
+      "type": "library",
+      "version": "8.0.0"
+    },
+    {
+      "bom-ref": "ba2755afc0e6c6705326711fd218ebe107a527eccbd6485155fde98ed000bee7",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/escalade/-/escalade-3.2.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ba2755afc0e6c6705326711fd218ebe107a527eccbd6485155fde98ed000bee7"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "escalade",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "11"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/escalade@3.2.0",
+      "type": "library",
+      "version": "3.2.0"
+    },
+    {
+      "bom-ref": "7b13e1c81949ff4c1baae4ac4e34990492d5e8a86dab7e3b90027b1f5126935f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7b13e1c81949ff4c1baae4ac4e34990492d5e8a86dab7e3b90027b1f5126935f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "ISC"
+        }
+      ],
+      "name": "get-caller-file",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/get-caller-file@2.0.5",
+      "type": "library",
+      "version": "2.0.5"
+    },
+    {
+      "bom-ref": "38299bb1802ce06900ea2e43650aded8393cd6a00012ed97ffc716eeab1e1091",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/google-protobuf/-/google-protobuf-3.21.4.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "38299bb1802ce06900ea2e43650aded8393cd6a00012ed97ffc716eeab1e1091"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "(BSD-3-Clause AND Apache-2.0)"
+        }
+      ],
+      "name": "google-protobuf",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "17"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/google-protobuf@3.21.4",
+      "type": "library",
+      "version": "3.21.4"
+    },
+    {
+      "bom-ref": "6f415dae5dc6070f1b42daee6165eab941a97101982305facc8bafdaf300bc4a",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6f415dae5dc6070f1b42daee6165eab941a97101982305facc8bafdaf300bc4a"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "is-fullwidth-code-point",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/is-fullwidth-code-point@3.0.0",
+      "type": "library",
+      "version": "3.0.0"
+    },
+    {
+      "bom-ref": "5062d835a19e11cf61e255b6476f232e874238dc87dbe68cd2cc2dd88be0674d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/lodash.camelcase/-/lodash.camelcase-4.3.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5062d835a19e11cf61e255b6476f232e874238dc87dbe68cd2cc2dd88be0674d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "lodash.camelcase",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/lodash.camelcase@4.3.0",
+      "type": "library",
+      "version": "4.3.0"
+    },
+    {
+      "bom-ref": "68033e466773df7d52c9e59341bb729d83716cd920c56460395724456d646b26",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/long/-/long-5.3.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "68033e466773df7d52c9e59341bb729d83716cd920c56460395724456d646b26"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "long",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "10"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/long@5.3.2",
+      "type": "library",
+      "version": "5.3.2"
+    },
+    {
+      "bom-ref": "df0241b3046b505d27396da6eef107f14dffb108f77aa89cfd9611a928eb6dfe",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/protobufjs/-/protobufjs-7.6.6.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "df0241b3046b505d27396da6eef107f14dffb108f77aa89cfd9611a928eb6dfe"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "protobufjs",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "79"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/protobufjs@7.6.6",
+      "type": "library",
+      "version": "7.6.6"
+    },
+    {
+      "bom-ref": "703bee0844360383fe4a8792d4a5a562647426a053e7597a1d272ac554f386c8",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "703bee0844360383fe4a8792d4a5a562647426a053e7597a1d272ac554f386c8"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "require-directory",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/require-directory@2.1.1",
+      "type": "library",
+      "version": "2.1.1"
+    },
+    {
+      "bom-ref": "adbb4fb1b26e8069af99adff0079369c93f17cf887b91086691d671ddbd52934",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "adbb4fb1b26e8069af99adff0079369c93f17cf887b91086691d671ddbd52934"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "string-width",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/string-width@4.2.3",
+      "type": "library",
+      "version": "4.2.3"
+    },
+    {
+      "bom-ref": "9bdb75d0bff49f156dd8c3bcb0e06b3fa96c3d88ddd4c342a4345866a40c08ca",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9bdb75d0bff49f156dd8c3bcb0e06b3fa96c3d88ddd4c342a4345866a40c08ca"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "strip-ansi",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/strip-ansi@6.0.1",
+      "type": "library",
+      "version": "6.0.1"
+    },
+    {
+      "bom-ref": "0795b3510bd2e938f6a415396de3d4f58fd76ef1f8249a07196444eaf85ca42f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-7.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0795b3510bd2e938f6a415396de3d4f58fd76ef1f8249a07196444eaf85ca42f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "wrap-ansi",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/wrap-ansi@7.0.0",
+      "type": "library",
+      "version": "7.0.0"
+    },
+    {
+      "bom-ref": "d43743bad3a7cb3af5d3b6bf70fd32fe3923ea86e4148109c6dd0126deada769",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/y18n/-/y18n-5.0.8.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d43743bad3a7cb3af5d3b6bf70fd32fe3923ea86e4148109c6dd0126deada769"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "ISC"
+        }
+      ],
+      "name": "y18n",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "9"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/y18n@5.0.8",
+      "type": "library",
+      "version": "5.0.8"
+    },
+    {
+      "bom-ref": "76ac30834674f0d8da9c7bfedb175f6ada260420e6475edfdcc551c601f8717e",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/yargs/-/yargs-17.7.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "76ac30834674f0d8da9c7bfedb175f6ada260420e6475edfdcc551c601f8717e"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "yargs",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "63"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/yargs@17.7.3",
+      "type": "library",
+      "version": "17.7.3"
+    },
+    {
+      "bom-ref": "342b7d527d4a72265b64f27711517349c3c05ee302ab3b8c7452f0bfbe709151",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "342b7d527d4a72265b64f27711517349c3c05ee302ab3b8c7452f0bfbe709151"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "ISC"
+        }
+      ],
+      "name": "yargs-parser",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "11"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/yargs-parser@21.1.1",
+      "type": "library",
+      "version": "21.1.1"
+    },
+    {
+      "bom-ref": "7c13d093c7dc82ad9b024da4fd31cd480da6cbae65a0c492efb897e34bd73929",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@colors/colors/-/colors-1.6.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7c13d093c7dc82ad9b024da4fd31cd480da6cbae65a0c492efb897e34bd73929"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@colors/colors",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "22"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40colors/colors@1.6.1",
+      "type": "library",
+      "version": "1.6.1"
+    },
+    {
+      "bom-ref": "c2741b20e37a5916d1e934cc577f450fa1b0af10d516740f4e55c26fe6819b86",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@dabh/diagnostics/-/diagnostics-2.0.9.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c2741b20e37a5916d1e934cc577f450fa1b0af10d516740f4e55c26fe6819b86"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@dabh/diagnostics",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "22"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40dabh/diagnostics@2.0.9",
+      "type": "library",
+      "version": "2.0.9"
+    },
+    {
+      "bom-ref": "0a8c4a98c27b0fb583af2f96bc010e268e2c42ad7f052d30173857bca611a156",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@fidm/asn1/-/asn1-1.0.4.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0a8c4a98c27b0fb583af2f96bc010e268e2c42ad7f052d30173857bca611a156"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@fidm/asn1",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "15"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40fidm/asn1@1.0.4",
+      "type": "library",
+      "version": "1.0.4"
+    },
+    {
+      "bom-ref": "550c4e43e51ea2999d841d850e1a1e109ef883467c38f085675eb3beb70f540f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@fidm/x509/-/x509-1.2.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "550c4e43e51ea2999d841d850e1a1e109ef883467c38f085675eb3beb70f540f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@fidm/x509",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "15"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40fidm/x509@1.2.1",
+      "type": "library",
+      "version": "1.2.1"
+    },
+    {
+      "bom-ref": "f628897b6f550d0309b76c0ae2d33470d5b9ac840d71f9da3c10e54b9d6ee086",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@grpc/grpc-js/-/grpc-js-1.14.4.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f628897b6f550d0309b76c0ae2d33470d5b9ac840d71f9da3c10e54b9d6ee086"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "@grpc/grpc-js",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "681"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40grpc/grpc-js@1.14.4",
+      "type": "library",
+      "version": "1.14.4"
+    },
+    {
+      "bom-ref": "c2705546b20de630bf0d81545012ca4602302eef070f3c655bdf0bc55bab24f7",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@grpc/proto-loader/-/proto-loader-0.8.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c2705546b20de630bf0d81545012ca4602302eef070f3c655bdf0bc55bab24f7"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "@grpc/proto-loader",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "11"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40grpc/proto-loader@0.8.1",
+      "type": "library",
+      "version": "0.8.1"
+    },
+    {
+      "bom-ref": "68e11a32f2729cbf7292194333621b1d00c2bad8c636040e3dd6b9fba882ea82",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@hyperledger/fabric-protos/-/fabric-protos-0.2.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "68e11a32f2729cbf7292194333621b1d00c2bad8c636040e3dd6b9fba882ea82"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "@hyperledger/fabric-protos",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "170"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40hyperledger/fabric-protos@0.2.2",
+      "type": "library",
+      "version": "0.2.2"
+    },
+    {
+      "bom-ref": "e7baa57117e16c2347e26e3c7c356f711ecfd32572ec597a8c33487590cc27fa",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@so-ric/colorspace/-/colorspace-1.1.6.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e7baa57117e16c2347e26e3c7c356f711ecfd32572ec597a8c33487590cc27fa"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@so-ric/colorspace",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40so-ric/colorspace@1.1.6",
+      "type": "library",
+      "version": "1.1.6"
+    },
+    {
+      "bom-ref": "9f25db4fef60e8ad668ae7d45dd6e82cd37fb6bef37c7f1bcbcfc389ab04b12f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@types/node/-/node-16.18.126.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9f25db4fef60e8ad668ae7d45dd6e82cd37fb6bef37c7f1bcbcfc389ab04b12f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@types/node",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "63"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40types/node@16.18.126",
+      "type": "library",
+      "version": "16.18.126"
+    },
+    {
+      "bom-ref": "48eddf486ecdfe266921c42543a89b63323a2e22f59b8151f9266eec82da23c2",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@types/triple-beam/-/triple-beam-1.3.5.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "48eddf486ecdfe266921c42543a89b63323a2e22f59b8151f9266eec82da23c2"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@types/triple-beam",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40types/triple-beam@1.3.5",
+      "type": "library",
+      "version": "1.3.5"
+    },
+    {
+      "bom-ref": "f52192ad895dee468f1d1d5bf8972f7114e2459ff126632a1963e7bd2a38ed0a",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/ajv/-/ajv-6.15.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f52192ad895dee468f1d1d5bf8972f7114e2459ff126632a1963e7bd2a38ed0a"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "ajv",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "92"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/ajv@6.15.0",
+      "type": "library",
+      "version": "6.15.0"
+    },
+    {
+      "bom-ref": "6bb45cfba08cd2eea39eb3ce6eaa94113070fe137ec0bd4a9f122be9a0250e6f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/async/-/async-3.2.6.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6bb45cfba08cd2eea39eb3ce6eaa94113070fe137ec0bd4a9f122be9a0250e6f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "async",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "137"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/async@3.2.6",
+      "type": "library",
+      "version": "3.2.6"
+    },
+    {
+      "bom-ref": "88e388d74824fa507fc672689666f95c4559325feecbff2fb094ecfe97156f0d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/class-transformer/-/class-transformer-0.4.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "88e388d74824fa507fc672689666f95c4559325feecbff2fb094ecfe97156f0d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "class-transformer",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "252"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/class-transformer@0.4.0",
+      "type": "library",
+      "version": "0.4.0"
+    },
+    {
+      "bom-ref": "4e763a3e3a83462779c5f7aca532bad119101190cba52dedac753a1a43d31c51",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/color/-/color-5.0.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4e763a3e3a83462779c5f7aca532bad119101190cba52dedac753a1a43d31c51"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "color",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/color@5.0.3",
+      "type": "library",
+      "version": "5.0.3"
+    },
+    {
+      "bom-ref": "0b484d5fc8b8104e1f6a65fa83f87af79cfd9f2e6094559476092ea6bce011c3",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/color-convert/-/color-convert-3.1.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0b484d5fc8b8104e1f6a65fa83f87af79cfd9f2e6094559476092ea6bce011c3"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "color-convert",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/color-convert@3.1.3",
+      "type": "library",
+      "version": "3.1.3"
+    },
+    {
+      "bom-ref": "94fd34b8f6b573fd0a4a07f5f029beaf2c8ee9a2b7cd0d47fdd6c95c89b50125",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/color-name/-/color-name-2.1.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "94fd34b8f6b573fd0a4a07f5f029beaf2c8ee9a2b7cd0d47fdd6c95c89b50125"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "color-name",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/color-name@2.1.1",
+      "type": "library",
+      "version": "2.1.1"
+    },
+    {
+      "bom-ref": "8d2ce81ed139eaf39d209aa7f494a205b42e8a9b029ff254ed013503b7ddf925",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/color-string/-/color-string-2.1.4.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8d2ce81ed139eaf39d209aa7f494a205b42e8a9b029ff254ed013503b7ddf925"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "color-string",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/color-string@2.1.4",
+      "type": "library",
+      "version": "2.1.4"
+    },
+    {
+      "bom-ref": "6fa6f03316c092183a03ec7bdc198ac92df4e622029b59472db2320352c7cd3c",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/enabled/-/enabled-2.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6fa6f03316c092183a03ec7bdc198ac92df4e622029b59472db2320352c7cd3c"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "enabled",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/enabled@2.0.0",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "bom-ref": "692c8dfc3e40a5a4fc7ec9cde429e1a68123360ce8ef7a43e599b0baa745ab04",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fabric-contract-api/-/fabric-contract-api-2.5.8.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "692c8dfc3e40a5a4fc7ec9cde429e1a68123360ce8ef7a43e599b0baa745ab04"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "fabric-contract-api",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "52"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fabric-contract-api@2.5.8",
+      "type": "library",
+      "version": "2.5.8"
+    },
+    {
+      "bom-ref": "20c63835d953d2af5f0cf5d79d2fade8d024cee95d31cae53df2faa79c7c866d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fabric-shim/-/fabric-shim-2.5.8.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "20c63835d953d2af5f0cf5d79d2fade8d024cee95d31cae53df2faa79c7c866d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "fabric-shim",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "69"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fabric-shim@2.5.8",
+      "type": "library",
+      "version": "2.5.8"
+    },
+    {
+      "bom-ref": "bc644bff6f755544c856174af6e3d272526245d9aa95b6108c7532b454d06db7",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fabric-shim-api/-/fabric-shim-api-2.5.8.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bc644bff6f755544c856174af6e3d272526245d9aa95b6108c7532b454d06db7"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "fabric-shim-api",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "9"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fabric-shim-api@2.5.8",
+      "type": "library",
+      "version": "2.5.8"
+    },
+    {
+      "bom-ref": "b019a0980f27638dc3f85836b0e478f188e00d7a6e5852c0819fa86f56e47b8f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b019a0980f27638dc3f85836b0e478f188e00d7a6e5852c0819fa86f56e47b8f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "fast-deep-equal",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "11"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fast-deep-equal@3.1.3",
+      "type": "library",
+      "version": "3.1.3"
+    },
+    {
+      "bom-ref": "1e2df822c43e0a2b448e5df79bf8e6d3e085c86e30456cd383a2f96215fd1687",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1e2df822c43e0a2b448e5df79bf8e6d3e085c86e30456cd383a2f96215fd1687"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "fast-json-stable-stringify",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "18"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fast-json-stable-stringify@2.1.0",
+      "type": "library",
+      "version": "2.1.0"
+    },
+    {
+      "bom-ref": "a7c9e08f2e56821eb1c1c023440dba6e8e1fb3b116670831939307e3c3b22409",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fast-safe-stringify/-/fast-safe-stringify-2.1.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a7c9e08f2e56821eb1c1c023440dba6e8e1fb3b116670831939307e3c3b22409"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "fast-safe-stringify",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "10"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fast-safe-stringify@2.1.1",
+      "type": "library",
+      "version": "2.1.1"
+    },
+    {
+      "bom-ref": "d41ef3f7fd17cc5a1725aab659600af53ece2b886ea5fd66eac7d25a523a07a8",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fecha/-/fecha-4.2.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d41ef3f7fd17cc5a1725aab659600af53ece2b886ea5fd66eac7d25a523a07a8"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "fecha",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "11"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fecha@4.2.3",
+      "type": "library",
+      "version": "4.2.3"
+    },
+    {
+      "bom-ref": "3f24571e02f409eb1d6a6f903416660956ce947e0b51e0ace2d87afcbc11e8d7",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/fn.name/-/fn.name-1.1.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3f24571e02f409eb1d6a6f903416660956ce947e0b51e0ace2d87afcbc11e8d7"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "fn.name",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "7"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/fn.name@1.1.0",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "2ce2182b8f53822248724db5bde2600a431d67c5014a211100182ee60dce7b67",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/get-params/-/get-params-0.1.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2ce2182b8f53822248724db5bde2600a431d67c5014a211100182ee60dce7b67"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "get-params",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "8"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/get-params@0.1.2",
+      "type": "library",
+      "version": "0.1.2"
+    },
+    {
+      "bom-ref": "d94dbc6c1bb3c5ac0fb12a73ade187108fc60de273a1b754f55044eb5e24afaf",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d94dbc6c1bb3c5ac0fb12a73ade187108fc60de273a1b754f55044eb5e24afaf"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "ISC"
+        }
+      ],
+      "name": "inherits",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/inherits@2.0.4",
+      "type": "library",
+      "version": "2.0.4"
+    },
+    {
+      "bom-ref": "3501ff72a20b78f1a2170a4982d82d9a71d16b99a935bec9787f1c486d61b6d7",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/is-stream/-/is-stream-2.0.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3501ff72a20b78f1a2170a4982d82d9a71d16b99a935bec9787f1c486d61b6d7"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "is-stream",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/is-stream@2.0.1",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "bom-ref": "f735add93641842e13096c8b3239f54e9b0b10e8ffd8a377400f4d61eabec065",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f735add93641842e13096c8b3239f54e9b0b10e8ffd8a377400f4d61eabec065"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "json-schema-traverse",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "9"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/json-schema-traverse@0.4.1",
+      "type": "library",
+      "version": "0.4.1"
+    },
+    {
+      "bom-ref": "6691916c94f0437f196fdcb8a2231ab94c7044f8bf5c392bb8bb6d57fe8626f4",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/kuler/-/kuler-2.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6691916c94f0437f196fdcb8a2231ab94c7044f8bf5c392bb8bb6d57fe8626f4"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "kuler",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/kuler@2.0.0",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "bom-ref": "74d5ee1702ae02992588c8cc672a832a5b642e6203795d9055ba9150c1f6ee45",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/logform/-/logform-2.7.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "74d5ee1702ae02992588c8cc672a832a5b642e6203795d9055ba9150c1f6ee45"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "logform",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "51"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/logform@2.7.0",
+      "type": "library",
+      "version": "2.7.0"
+    },
+    {
+      "bom-ref": "dfbccde5e78ebf5755a3fb9577ab699911e340520c4de2a20a738c72f56e008f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@colors/colors/-/colors-1.6.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dfbccde5e78ebf5755a3fb9577ab699911e340520c4de2a20a738c72f56e008f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "@colors/colors",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "21"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/%40colors/colors@1.6.0",
+      "type": "library",
+      "version": "1.6.0"
+    },
+    {
+      "bom-ref": "f6616e15e530ed552f9daa2d3ce71963947c6bc7c98c9b64fd3e673fd02622c6",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f6616e15e530ed552f9daa2d3ce71963947c6bc7c98c9b64fd3e673fd02622c6"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "ms",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/ms@2.1.3",
+      "type": "library",
+      "version": "2.1.3"
+    },
+    {
+      "bom-ref": "db005ddf45aa90216e91515d97b51a56d32454c14673ced57bbbc143aef45d4f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/one-time/-/one-time-1.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "db005ddf45aa90216e91515d97b51a56d32454c14673ced57bbbc143aef45d4f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "one-time",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/one-time@1.0.0",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "bom-ref": "e4ce59f9fbac44349abab87279ab658f6b4614916bec5e088ae3be9323e193bb",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/punycode/-/punycode-2.3.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e4ce59f9fbac44349abab87279ab658f6b4614916bec5e088ae3be9323e193bb"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "punycode",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/punycode@2.3.1",
+      "type": "library",
+      "version": "2.3.1"
+    },
+    {
+      "bom-ref": "edd866c05e318aa9c091763eebdd4207409b7a7648be19c5317a96047305ab5d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/readable-stream/-/readable-stream-3.6.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "edd866c05e318aa9c091763eebdd4207409b7a7648be19c5317a96047305ab5d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "readable-stream",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "25"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/readable-stream@3.6.2",
+      "type": "library",
+      "version": "3.6.2"
+    },
+    {
+      "bom-ref": "11aefc4e95810a7fb8fd5fd8eb83b6549285ecf5f5ab2bae9e4b1c5ead1e21d7",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/reflect-metadata/-/reflect-metadata-0.1.14.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "11aefc4e95810a7fb8fd5fd8eb83b6549285ecf5f5ab2bae9e4b1c5ead1e21d7"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "reflect-metadata",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "15"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/reflect-metadata@0.1.14",
+      "type": "library",
+      "version": "0.1.14"
+    },
+    {
+      "bom-ref": "5d181804516c4a693a384272a7bd0e42d17e0d4b301ccfbe408669ccafdcb3e8",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5d181804516c4a693a384272a7bd0e42d17e0d4b301ccfbe408669ccafdcb3e8"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "safe-buffer",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/safe-buffer@5.2.1",
+      "type": "library",
+      "version": "5.2.1"
+    },
+    {
+      "bom-ref": "acf5b4e0f8e5f0bfd9479eae41a6dd90e175d89eecd98fe1c834eab602073e91",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/safe-stable-stringify/-/safe-stable-stringify-2.5.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "acf5b4e0f8e5f0bfd9479eae41a6dd90e175d89eecd98fe1c834eab602073e91"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "safe-stable-stringify",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "8"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/safe-stable-stringify@2.5.0",
+      "type": "library",
+      "version": "2.5.0"
+    },
+    {
+      "bom-ref": "71e0893a625d234c68481c334ca127ef6c5521eaa3d49d743801f8d83b775f5f",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/stack-trace/-/stack-trace-0.0.10.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "71e0893a625d234c68481c334ca127ef6c5521eaa3d49d743801f8d83b775f5f"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "stack-trace",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/stack-trace@0.0.10",
+      "type": "library",
+      "version": "0.0.10"
+    },
+    {
+      "bom-ref": "7d036900940345e423538371ae45b23bfaf4b454bc398c6ba604063b0597b3ad",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/string_decoder/-/string_decoder-1.3.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7d036900940345e423538371ae45b23bfaf4b454bc398c6ba604063b0597b3ad"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "string_decoder",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "4"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/string_decoder@1.3.0",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "bom-ref": "4a61a9ab5d64571fa55c93bdea194806ba83504898272dcb0176d929abaef003",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/text-hex/-/text-hex-1.0.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4a61a9ab5d64571fa55c93bdea194806ba83504898272dcb0176d929abaef003"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "text-hex",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "5"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/text-hex@1.0.0",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "bom-ref": "57fcb3a35722040def92c065bf84f1d86ec61714c8e4d149dc1e4364e1f08531",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/triple-beam/-/triple-beam-1.4.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "57fcb3a35722040def92c065bf84f1d86ec61714c8e4d149dc1e4364e1f08531"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "triple-beam",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "12"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/triple-beam@1.4.1",
+      "type": "library",
+      "version": "1.4.1"
+    },
+    {
+      "bom-ref": "5f8dc49cb4483e206ba3ebb22abbccfc0218c59b60fc78cce24197ced5b9e102",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/tweetnacl/-/tweetnacl-1.0.3.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5f8dc49cb4483e206ba3ebb22abbccfc0218c59b60fc78cce24197ced5b9e102"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "Unlicense"
+        }
+      ],
+      "name": "tweetnacl",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "11"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/tweetnacl@1.0.3",
+      "type": "library",
+      "version": "1.0.3"
+    },
+    {
+      "bom-ref": "5612de52afe83da73e66b519e83aa56aa81151c844b90bcf8e045df5ecec8d2d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/uri-js/-/uri-js-4.4.1.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5612de52afe83da73e66b519e83aa56aa81151c844b90bcf8e045df5ecec8d2d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "BSD-2-Clause"
+        }
+      ],
+      "name": "uri-js",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "46"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/uri-js@4.4.1",
+      "type": "library",
+      "version": "4.4.1"
+    },
+    {
+      "bom-ref": "79a1de983c1b393180c47456d6b73caab278a00ea6e37d5c6675f2dcdec2a3e5",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "79a1de983c1b393180c47456d6b73caab278a00ea6e37d5c6675f2dcdec2a3e5"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "util-deprecate",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "6"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/util-deprecate@1.0.2",
+      "type": "library",
+      "version": "1.0.2"
+    },
+    {
+      "bom-ref": "4183f422c69153b58b8595d3ec06c523087ca1a978006e1a6db63e199c18748e",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/winston/-/winston-3.19.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4183f422c69153b58b8595d3ec06c523087ca1a978006e1a6db63e199c18748e"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "winston",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "40"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/winston@3.19.0",
+      "type": "library",
+      "version": "3.19.0"
+    },
+    {
+      "bom-ref": "6bb5ba79e914ffc58cb5278e08d48602db28a84fa89902a1559cbad55d0a829d",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/winston-transport/-/winston-transport-4.9.0.tgz"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6bb5ba79e914ffc58cb5278e08d48602db28a84fa89902a1559cbad55d0a829d"
+        }
+      ],
+      "licenses": [
+        {
+          "expression": "MIT"
+        }
+      ],
+      "name": "winston-transport",
+      "properties": [
+        {
+          "name": "tiis:distribution",
+          "value": "RUNTIME_REFERENCE_ONLY_NOT_BUNDLED"
+        },
+        {
+          "name": "tiis:file_count",
+          "value": "17"
+        },
+        {
+          "name": "tiis:review_limit",
+          "value": "Package grants plus retained nested license/NOTICE files and explicit file hashes; not a warranty of upstream authorship or a legal certification"
+        }
+      ],
+      "purl": "pkg:npm/winston-transport@4.9.0",
+      "type": "library",
+      "version": "4.9.0"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ],
+      "name": "tiis-pc1-chaincode",
+      "publisher": "Sungmoon Park",
+      "type": "application",
+      "version": "0.1.0"
+    }
+  },
+  "properties": [
+    {
+      "name": "tiis:scope",
+      "value": "Source package inventory only; images and VM/host tools remain separate external runtime references in environment locks."
+    }
+  ],
+  "serialNumber": "urn:uuid:b012679d-f08f-5bbd-8d90-8b5c2c1fc566",
+  "specVersion": "1.6",
+  "version": 1
+}
